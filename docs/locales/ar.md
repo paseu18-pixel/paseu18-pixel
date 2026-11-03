@@ -114,7 +114,7 @@
 - **رف أجهزة اختبار التخزين**: معالجان AMD EPYC 7543، وذاكرة 256 جيجابايت ECC DDR4-3200، و4 أقراص Solidigm P44 Pro 2TB PCIe 4.0 NVMe (برمجي RAID0 / JBOD)
 - **محطة العمل الرئيسية**: حاسوب Framework Laptop 16 (بيئة Linux Debian Sid / Wayland)
 - **أجهزة الإدخال**: لوحة مفاتيح ميكانيكية منقسمة Corne LP (مفاتيح Gateron Low Profile Red مشحمة، وتوزيعة Colemak-DH مخصصة)
-- **محطة القهوة**: مطحنة Timemore Chestnut C3 اليدوية، وآلة Cafelat Robot اليدوية لتحضير الإسبريسو بالرافعة
+- **محطة القهوة**: مطحنة Timemore Chestnut C3 اليدوية، وآلة Flair 58 اليدوية لتحضير الإسبريسو بالرافعة
 
 ---
 

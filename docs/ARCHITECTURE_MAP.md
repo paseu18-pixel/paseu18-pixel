@@ -1,7 +1,7 @@
 # Architecture Map - github_paseu18
 
 ## 1. 개요
-`github_paseu18` 프로젝트의 로컬 격리 브라우징 및 3대 플랫폼(GitHub, Hugging Face, GitLab) 자동화 아키텍처 맵입니다.
+`github_paseu18` 프로젝트의 로컬 격리 브라우징 및 3대 플랫폼(GitHub, Hugging Face, GitLab) 프로필 연동 아키텍처 맵입니다.
 
 ## 2. 브라우저 격리 구조
 - **프로필 디렉터리**: `C:\github_paseu18\chrome_profile`

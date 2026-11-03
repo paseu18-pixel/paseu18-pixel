@@ -114,7 +114,7 @@
 - **스토리지 테스트베드 랙**: Dual AMD EPYC 7543, 256GB ECC DDR4-3200, 4x Solidigm P44 Pro 2TB PCIe 4.0 NVMe (소프트웨어 RAID0 / JBOD)
 - **메인 워크스테이션**: Framework Laptop 16 (Linux Debian Sid / Wayland 환경)
 - **입력 하드웨어**: Corne LP 분할형 기계식 키보드 (윤활 처리된 Gateron Low Profile Red 스위치, 커스텀 Colemak-DH 배열)
-- **커피 스테이션**: 타임모어 Chestnut C3 핸드밀, 카펠랏 로봇(Cafelat Robot) 수동 레버 에스프레소 머신
+- **커피 스테이션**: 타임모어 Chestnut C3 핸드밀, 플레어 58(Flair 58) 수동 레버 에스프레소 머신
 
 ---
 

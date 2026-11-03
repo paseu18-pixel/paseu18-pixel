@@ -114,7 +114,7 @@
 - **Стойка тестирования хранилищ**: Двухпроцессорный AMD EPYC 7543, 256 ГБ ECC DDR4-3200, 4 накопителя Solidigm P44 Pro 2 ТБ PCIe 4.0 NVMe (программный RAID0 / JBOD)
 - **Основной ноутбук**: Framework Laptop 16 (Linux Debian Sid / Wayland)
 - **Устройства ввода**: Раздельная эргономичная клавиатура Corne LP (смазанные переключатели Gateron Low Profile Red, раскладка Colemak-DH)
-- **Кофейная станция**: Ручная кофемолка Timemore Chestnut C3, леверная ручная эспрессо-кофеварка Cafelat Robot
+- **Кофейная станция**: Ручная кофемолка Timemore Chestnut C3, леверная ручная эспрессо-кофеварка Flair 58
 
 ---
 

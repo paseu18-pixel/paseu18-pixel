@@ -114,7 +114,7 @@ When writing low-level storage routines, these four invariants are strictly enfo
 - **Storage Testbed Rack**: Dual AMD EPYC 7543, 256GB ECC DDR4-3200, 4x Solidigm P44 Pro 2TB PCIe 4.0 NVMe (software RAID0 / JBOD)
 - **Primary Workstation**: Framework Laptop 16 (Linux Debian Sid / Wayland)
 - **Input Hardware**: Corne LP split mechanical keyboard (lubed Gateron Low Profile Red switches, custom Colemak-DH layout)
-- **Coffee Station**: Timemore Chestnut C3 manual grinder, Cafelat Robot manual lever espresso press
+- **Coffee Station**: Timemore Chestnut C3 manual grinder, Flair 58 manual lever espresso press
 
 ---
 

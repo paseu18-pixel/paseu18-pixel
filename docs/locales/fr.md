@@ -114,7 +114,7 @@ Lors de l'implémentation de composants de stockage bas niveau, quatre impérati
 - **Baie de Tests Stockage**: Bi-processeur AMD EPYC 7543, 256 Go ECC DDR4-3200, 4x Solidigm P44 Pro 2 To PCIe 4.0 NVMe (software RAID0 / JBOD)
 - **Station Mobile Principale**: Framework Laptop 16 (Linux Debian Sid / Wayland)
 - **Périphériques de Saisie**: Clavier mécanique scindé Corne LP (switches Gateron Low Profile Red lubrifiés, disposition sur mesure Colemak-DH)
-- **Coin Café**: Moulin manuel Timemore Chestnut C3, machine expresso manuelle à levier Cafelat Robot
+- **Coin Café**: Moulin manuel Timemore Chestnut C3, machine expresso manuelle à levier Flair 58
 
 ---
 

@@ -35,9 +35,9 @@ I build high-throughput database storage engines, append-only write-ahead logs (
 ## Storage Infrastructure & CI/CD Pipelines
 
 - **Kernel-Bypass I/O Verification**: Dedicated GitLab CI Runners configured with rootless `io_uring` support (`IORING_FEAT_NODROP`, fixed buffers) on Linux 6.8+ real-time kernels.
-- **Continuous Fault Injection**: Automated crash-recovery test pipelines simulating sudden power failures and kernel panics under heavy concurrent append workloads.
+- **Continuous Fault Injection**: Rigorous crash-recovery test pipelines simulating sudden power failures and kernel panics under heavy concurrent append workloads.
 - **Cycle-Accurate Benchmarking**: GitLab CI benchmark stages running `fio` and custom WAL micro-benchmarks to detect latency and write-amplification regressions on pull requests.
-- **Hardware Testbed Automation**: Remote provisioning scripts for dual AMD EPYC storage racks and PCIe 4.0 NVMe arrays.
+- **Hardware Testbed Provisioning**: Bare-metal environment scripts for dual AMD EPYC storage racks and PCIe 4.0 NVMe arrays.
 
 ---
 
@@ -67,7 +67,7 @@ I build high-throughput database storage engines, append-only write-ahead logs (
 ### [ring-fs-ci](https://gitlab.com/paseu18/ring-fs-ci)
 *Continuous integration and stress test harnesses for the `ring-fs` userspace storage engine.*
 - Multi-architecture matrix builds across x86_64 and aarch64 Linux systems.
-- Automated sustained write tests verifying over 800,000 IOPS without page corruption.
+- Sustained sequential write tests verifying over 800,000 IOPS without page corruption.
 - Memory leak detection via Valgrind Massif and AddressSanitizer (ASan) on every commit.
 
 ### [wal-stress-runner](https://gitlab.com/paseu18/wal-stress-runner)
@@ -77,8 +77,8 @@ I build high-throughput database storage engines, append-only write-ahead logs (
 - Comprehensive log verification reporting embedded directly into GitLab pipeline summaries.
 
 ### [storage-perf-matrix](https://gitlab.com/paseu18/storage-perf-matrix)
-*Automated `fio` and YCSB benchmark suites tracking latency curves across NVMe block layers.*
-- Generates automated SVG throughput/latency comparison graphs on merge requests.
+*Comprehensive `fio` and YCSB benchmark suites tracking latency curves across NVMe block layers.*
+- Generates deterministic SVG throughput/latency comparison graphs on merge requests.
 - Rejects commits that increase p99 fsync latency by more than 3%.
 
 ---

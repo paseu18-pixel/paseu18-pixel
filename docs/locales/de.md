@@ -114,7 +114,7 @@ Beim Schreiben hardwarenaher Speichercodes gelten diese vier Prinzipien uneinges
 - **Speicherprüfstand-Rack**: Dual AMD EPYC 7543, 256GB ECC DDR4-3200, 4x Solidigm P44 Pro 2TB PCIe 4.0 NVMe (Software-RAID0 / JBOD)
 - **Haupt-Arbeitsgerät**: Framework Laptop 16 (Linux Debian Sid / Wayland)
 - **Eingabegeräte**: Corne LP geteilte mechanische Tastatur (geschmierte Gateron Low Profile Red Switches, Colemak-DH-Tastenbelegung)
-- **Kaffee-Ecke**: Timemore Chestnut C3 Handmühle, Cafelat Robot manuelle Handhebel-Espressomaschine
+- **Kaffee-Ecke**: Timemore Chestnut C3 Handmühle, Flair 58 manuelle Handhebel-Espressomaschine
 
 ---
 

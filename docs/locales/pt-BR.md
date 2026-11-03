@@ -114,7 +114,7 @@ Ao implementar rotinas de armazenamento de baixo nível, sigo impreterivelmente 
 - **Rack de Testes de Armazenamento**: Dual AMD EPYC 7543, 256GB ECC DDR4-3200, 4x Solidigm P44 Pro 2TB PCIe 4.0 NVMe (software RAID0 / JBOD)
 - **Computador Principal de Trabalho**: Framework Laptop 16 (Linux Debian Sid / Wayland)
 - **Dispositivos de Entrada**: Teclado mecânico dividido Corne LP (switches Gateron Low Profile Red lubrificados, layout Colemak-DH)
-- **Estação de Café**: Moedor manual Timemore Chestnut C3, prensa manual de alavanca Cafelat Robot
+- **Estação de Café**: Moedor manual Timemore Chestnut C3, prensa manual de alavanca Flair 58
 
 ---
 

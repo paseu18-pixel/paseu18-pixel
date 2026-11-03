@@ -114,7 +114,7 @@ Al programar componentes de almacenamiento de bajo nivel, sigo rigurosamente est
 - **Bastidor de Pruebas de Almacenamiento**: Doble procesador AMD EPYC 7543, 256GB ECC DDR4-3200, 4 unidades Solidigm P44 Pro 2TB PCIe 4.0 NVMe (software RAID0 / JBOD)
 - **Portátil de Trabajo Principal**: Framework Laptop 16 (Linux Debian Sid / Wayland)
 - **Periféricos de Entrada**: Teclado mecánico dividido Corne LP (interruptores lubricados Gateron Low Profile Red, distribución personalizada Colemak-DH)
-- **Rincón de Café**: Molinillo manual Timemore Chestnut C3, cafetera manual de palanca Cafelat Robot
+- **Rincón de Café**: Molinillo manual Timemore Chestnut C3, cafetera manual de palanca Flair 58
 
 ---
 

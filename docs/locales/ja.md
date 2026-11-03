@@ -114,7 +114,7 @@
 - **ストレージテストベッドラック**: Dual AMD EPYC 7543, 256GB ECC DDR4-3200, 4x Solidigm P44 Pro 2TB PCIe 4.0 NVMe (software RAID0 / JBOD)
 - **メインワークステーション**: Framework Laptop 16 (Linux Debian Sid / Wayland)
 - **入力デバイス**: Corne LP 分割型メカニカルキーボード（ルブ済みGateron Low Profile Red、カスタムColemak-DH配列）
-- **コーヒーステーション**: Timemore Chestnut C3 手動ミル、Cafelat Robot 手動レバーエスプレッソプレス
+- **コーヒーステーション**: Timemore Chestnut C3 手動ミル、Flair 58 手動レバーエスプレッソプレス
 
 ---
 

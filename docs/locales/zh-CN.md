@@ -114,7 +114,7 @@
 - **存储测试机架**：双路 AMD EPYC 7543，256GB ECC DDR4-3200，4x Solidigm P44 Pro 2TB PCIe 4.0 NVMe（软件 RAID0 / JBOD）
 - **主力工作机**：Framework Laptop 16（Linux Debian Sid / Wayland 架构）
 - **输入设备**：Corne LP 分体式机械键盘（润滑 Gateron Low Profile 矮红轴，定制 Colemak-DH 键位）
-- **咖啡角**：泰摩 Chestnut C3 手摇磨豆机，Cafelat Robot 手动杠杆式浓缩咖啡机
+- **咖啡角**：泰摩 Chestnut C3 手摇磨豆机，Flair 58 手动杠杆式浓缩咖啡机
 
 ---
 
