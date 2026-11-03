@@ -1,0 +1,17 @@
+# Secrets and environment files
+.env
+*.env
+tokens.json
+env.json
+
+# Local Browser Profiles and scratch
+chrome_profile/
+scratch/
+*.js
+!load_env.js
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
