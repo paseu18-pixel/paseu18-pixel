@@ -23,3 +23,7 @@
 - [x] [2단계] GitHub 특수 프로필 저장소(`paseu18-pixel/paseu18-pixel`) 생성, 10개국어 플랫 테이블 `README.md` 작성 및 푸시 (프로필 렌더링 검증)
 - [x] [3단계] GitLab(`paseu18/paseu18-pixel`) 및 Hugging Face(`sdaera43/paseu18-pixel`) 저장소 생성, Git Remote 추가 및 미러 푸시 완료 (.git/config 토큰 Sanitization)
 - [x] 3대 플랫폼 웹 프로필 및 저장소 실사 스크린샷 검증 완료 (GitHub, GitLab, Hugging Face)
+
+- [x] [잔디 백필] 비공개 저장소(`dev-timeline`, Private) 생성 및 2022~2026년 1,878개 커밋 백필 완료
+- [x] [잔디 공개 설정] GitHub 프로필 설정 `user[show_private_contribution_count]` 활성화 및 저장 완료
+- [x] [잔디 실사 검증] 프로필 메인 화면(`https://github.com/paseu18-pixel`) 2022~2026년 초록색 잔디밭 정상 렌더링 스크린샷 증적 확보
